@@ -1,0 +1,9 @@
+h1 {
+	color:  black;
+	text-transform: capitalize;
+}
+
+/*isn't working*/
+.profile-image {
+	max-width: 260px;
+}
